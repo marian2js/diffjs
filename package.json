@@ -4,11 +4,12 @@
   "description": "",
   "main": "diff.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test/diff-test.js"
   },
   "author": "Mariano Pardo",
   "license": "ISC",
   "devDependencies": {
     "expect.js": "^0.3.1"
-  }
+  },
+  "repository": "git://github.com/marian2js/diffjs"
 }
