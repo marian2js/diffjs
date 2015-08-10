@@ -1,0 +1,14 @@
+{
+  "name": "diffjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "diff.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mariano Pardo",
+  "license": "ISC",
+  "devDependencies": {
+    "expect.js": "^0.3.1"
+  }
+}
